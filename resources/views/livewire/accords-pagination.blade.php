@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row">
 
-        <div  class="col-md-3">
+        <div  class="col-md-3 ">
         <!-- Boutons pour filtrer les types d'accords -->
         <ul class="nav nav-pills flex-column mb-3 " id="pills-tab" role="tablist" style="box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2); border: 1px solid #0564A8; border-radius: 8px; padding: 10px">
             <li class="nav-item" role="presentation">
