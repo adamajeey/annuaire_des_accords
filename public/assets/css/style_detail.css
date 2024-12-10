@@ -4,7 +4,7 @@
             font-family: Arial, sans-serif;
         }
 
-       
+
 
         /* En-tête de la page */
         .text-center h3 {
@@ -54,16 +54,3 @@
             color: #024b7d;
         }
 
-        /* Style des boutons d'action */
-        .btn-custom {
-            background-color: #0564A8;
-            color: #fff;
-            border-radius: 20px;
-            padding: 10px 20px;
-            transition: background-color 0.3s, transform 0.2s;
-        }
-
-        .btn-custom:hover {
-            background-color: #024b7d;
-            transform: scale(1.05);
-        }

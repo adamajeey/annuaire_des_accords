@@ -8,7 +8,7 @@ class CatalogueController extends Controller
 {
     public function catalogue () {
 
-        $accords = Accord::all();
+        $accords = Accord::paginate(6);
 
         return view ('page/catalogue', compact('accords'));
     }

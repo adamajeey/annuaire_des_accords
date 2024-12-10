@@ -21,7 +21,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="https://cooperation.ucad.sn/" target="_blank">coopération</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="https://www.ucad.sn/" target="_blank">UCAD</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="https://www.bu.ucad.sn/" target="_blank">Bibliothèque Universitaire</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="http://live.ucad.edu.sn/" target="_blank">Messagerie UCAD</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://live.ucad.edu.sn/" target="_blank">Messagerie UCAD</a></li>
             </ul>
           </div>
 

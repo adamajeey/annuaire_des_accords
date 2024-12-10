@@ -210,6 +210,12 @@
   background: #fff;
 }
 
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: var(--bs-nav-pills-link-active-color);
+    background-color: var(--bs-nav-pills-link-active-bg);
+    width: 100%;
+}
+
 /* My additions */
 /* .services .service-box {
   transition: background 2000ms;
