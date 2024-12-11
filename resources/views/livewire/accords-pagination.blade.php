@@ -20,7 +20,7 @@
         </div>
         <!-- Liste des accords -->
         <div class="col-md-9">
-            <div class="card" style="border: 1px solid #0564A8; border-radius: 8px; padding: 15px;">
+
         <div class="row g-4">
             @foreach ($accords as $accord)
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -47,4 +47,4 @@
         </div>
     </div>
 </div>
-</div>
+
